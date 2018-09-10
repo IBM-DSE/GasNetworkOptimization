@@ -1,0 +1,6 @@
+name,from,to,diameter,length,cost
+extension1,sink_1,sink_24,450.0,68.41,171.33
+extension2,sink_26,source_2,1000.0,62.28,457.68
+extension3,source_1,source_3,1000.0,63.78,320.81
+extension4,sink_25,sink_12,405.0,60.21,378.87
+

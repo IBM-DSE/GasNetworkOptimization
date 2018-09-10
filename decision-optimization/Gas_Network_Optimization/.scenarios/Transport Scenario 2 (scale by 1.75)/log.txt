@@ -1,0 +1,130 @@
+[2018-08-21T15:30:45Z, INFO] 
+[2018-08-21T15:30:45Z, INFO] The following gas network and extension candidates are loaded:
+[2018-08-21T15:30:45Z, INFO] 
+[2018-08-21T15:30:45Z, INFO] Nodes:
+[2018-08-21T15:30:45Z, INFO]         name  pressureMax  pressureMin        x         y  isSource
+[2018-08-21T15:30:45Z, INFO] 0   source_1     81.01325      1.01325  1542.80  5682.200         1
+[2018-08-21T15:30:45Z, INFO] 1   source_2     81.01325      1.01325    63.64  5331.800         1
+[2018-08-21T15:30:45Z, INFO] 2   source_3     81.01325      1.01325  5451.70  7845.400         1
+[2018-08-21T15:30:45Z, INFO] 3     sink_1     81.01325      1.01325   848.52    16.263         0
+[2018-08-21T15:30:45Z, INFO] 4     sink_2     81.01325      1.01325  1308.80  4287.400         0
+[2018-08-21T15:30:45Z, INFO] 5     sink_3     81.01325      1.01325  1780.30  5458.000         0
+[2018-08-21T15:30:45Z, INFO] 6     sink_4     81.01325      1.01325  2032.80  2162.200         0
+[2018-08-21T15:30:45Z, INFO] 7     sink_5     81.01325      1.01325  2031.50  1442.800         0
+[2018-08-21T15:30:45Z, INFO] 8     sink_6     81.01325      1.01325  1744.10  1126.900         0
+[2018-08-21T15:30:45Z, INFO] 9     sink_7     81.01325      1.01325  1836.00  1150.200         0
+[2018-08-21T15:30:45Z, INFO] 10    sink_8     81.01325      1.01325  2374.10  2105.300         0
+[2018-08-21T15:30:45Z, INFO] 11    sink_9     81.01325      1.01325  1019.00  1838.100         0
+[2018-08-21T15:30:45Z, INFO] 12   sink_10     81.01325      1.01325  4080.10  5171.700         0
+[2018-08-21T15:30:45Z, INFO] 13   sink_11     81.01325      1.01325  4435.60  4889.600         0
+[2018-08-21T15:30:45Z, INFO] 14   sink_12     81.01325      1.01325  2539.20    20.875         0
+[2018-08-21T15:30:45Z, INFO] 15   sink_13     81.01325      1.01325  2630.70  4426.500         0
+[2018-08-21T15:30:45Z, INFO] 16   sink_14     81.01325      1.01325  2789.00  4499.200         0
+[2018-08-21T15:30:45Z, INFO] 17   sink_15     81.01325      1.01325  1603.00  4409.000         0
+[2018-08-21T15:30:45Z, INFO] 18   sink_16     81.01325      1.01325  6304.10  4154.100         0
+[2018-08-21T15:30:45Z, INFO] 19   sink_17     81.01325      1.01325  2173.60  1938.900         0
+[2018-08-21T15:30:45Z, INFO] 20   sink_18     81.01325      1.01325  1067.90  1592.700         0
+[2018-08-21T15:30:45Z, INFO] 21   sink_19     81.01325      1.01325  4716.90  6739.300         0
+[2018-08-21T15:30:45Z, INFO] 22   sink_20     81.01325      1.01325  2315.20  2584.400         0
+[2018-08-21T15:30:45Z, INFO] 23   sink_21     81.01325      1.01325  2444.60   305.560         0
+[2018-08-21T15:30:45Z, INFO] 24   sink_22     81.01325      1.01325  1139.40   360.630         0
+[2018-08-21T15:30:45Z, INFO] 25   sink_23     81.01325      1.01325  1815.80  5766.700         0
+[2018-08-21T15:30:45Z, INFO] 26   sink_24     81.01325      1.01325  2415.70   376.260         0
+[2018-08-21T15:30:45Z, INFO] 27   sink_25     81.01325      1.01325  2034.90  4211.200         0
+[2018-08-21T15:30:45Z, INFO] 28   sink_26     81.01325      1.01325  1154.50  2230.500         0
+[2018-08-21T15:30:45Z, INFO] 29   sink_27     81.01325      1.01325  4638.60  7395.200         0
+[2018-08-21T15:30:45Z, INFO] 30   sink_28     81.01325      1.01325   744.33  5472.000         0
+[2018-08-21T15:30:45Z, INFO] 31   sink_29     81.01325      1.01325   867.37  4930.600         0
+[2018-08-21T15:30:45Z, INFO] 
+[2018-08-21T15:30:45Z, INFO] Pipes:
+[2018-08-21T15:30:45Z, INFO]        name      from        to  diameter     length  flowMin  flowMax
+[2018-08-21T15:30:45Z, INFO] 0    pipe_1  source_1    sink_3      1000  13.071085 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 1    pipe_2   sink_11   sink_16       800  76.893551 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 2    pipe_3   sink_25   sink_13      1000  21.557566 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 3    pipe_4   sink_13   sink_14      1000   6.998054 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 4    pipe_5   sink_14   sink_10       800  58.218970 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 5    pipe_6   sink_25   sink_26       800  86.690266 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 6    pipe_7   sink_26    sink_9       600  16.579326 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 7    pipe_8    sink_9   sink_18       600  10.022783 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 8    pipe_9   sink_26    sink_4       600  35.218839 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 9   pipe_10    sink_4   sink_20       600  20.322205 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 10  pipe_11   sink_18    sink_6       800  32.868203 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 11  pipe_12   sink_25    sink_3       800  47.488284 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 12  pipe_13    sink_6    sink_7       600   3.802587 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 13  pipe_14    sink_6   sink_22       800  39.036042 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 14  pipe_15    sink_7   sink_24       400  38.659824 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 15  pipe_16   sink_22    sink_1       600  18.017850 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 16  pipe_17   sink_24   sink_21       600   3.067547 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 17  pipe_18   sink_21   sink_12       400  12.015875 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 18  pipe_19    sink_7    sink_5       400  14.043114 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 19  pipe_20    sink_5   sink_17       600  20.634698 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 20  pipe_21   sink_17    sink_4       600  10.586129 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 21  pipe_22   sink_17    sink_8       600  10.452031 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 22  pipe_23    sink_3   sink_23       800  12.397352 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 23  pipe_24    sink_8   sink_20       600  19.303192 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 24  pipe_25   sink_25   sink_20       600  66.036595 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 25  pipe_26   sink_25   sink_15      1000  18.969413 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 26  pipe_27   sink_15   sink_29       800  36.061010 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 27  pipe_28   sink_29   sink_28       800  22.224153 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 28  pipe_29   sink_29    sink_2       800  31.179619 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 29  pipe_30    sink_2   sink_15      1000  12.766703 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 30  pipe_31   sink_29  source_2       800  32.921260 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 31  pipe_32  source_3   sink_19       800  49.866148 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 32  pipe_33   sink_19   sink_27      1000   3.418008 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 33  pipe_34   sink_27  source_3      1000  32.449372 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 34  pipe_35   sink_27   sink_19       800  26.427482 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 35  pipe_36   sink_10   sink_11      1000  18.136597 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 36  pipe_37   sink_10   sink_19       800  65.057174 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 37  pipe_38   sink_10   sink_19       800  65.532213 -1000000  1000000
+[2018-08-21T15:30:45Z, INFO] 
+[2018-08-21T15:30:45Z, INFO] Extension candidates:
+[2018-08-21T15:30:45Z, INFO]          name      from        to  diameter  length    cost
+[2018-08-21T15:30:45Z, INFO] 0  extension1    sink_1   sink_24     450.0   68.41  171.33
+[2018-08-21T15:30:45Z, INFO] 1  extension2   sink_26  source_2    1000.0   62.28  457.68
+[2018-08-21T15:30:45Z, INFO] 2  extension3  source_1  source_3    1000.0   63.78  320.81
+[2018-08-21T15:30:45Z, INFO] 3  extension4   sink_25   sink_12     405.0   60.21  378.87
+[2018-08-21T15:30:45Z, INFO] 
+[2018-08-21T15:30:45Z, INFO] Solving model....
+[2018-08-21T15:30:45Z, INFO] WARNING: Number of workers has been reduced to 1 to comply with platform limitations.
+[2018-08-21T15:30:45Z, INFO] CPXPARAM_Read_DataCheck                          1
+[2018-08-21T15:30:45Z, INFO] CPXPARAM_Threads                                 1
+[2018-08-21T15:30:45Z, INFO] Tried aggregator 3 times.
+[2018-08-21T15:30:45Z, INFO] MIP Presolve eliminated 8 rows and 7 columns.
+[2018-08-21T15:30:45Z, INFO] MIP Presolve modified 7 coefficients.
+[2018-08-21T15:30:45Z, INFO] Aggregator did 29 substitutions.
+[2018-08-21T15:30:45Z, INFO] Reduced MIP has 36 rows, 45 columns, and 129 nonzeros.
+[2018-08-21T15:30:45Z, INFO] Reduced MIP has 4 binaries, 0 generals, 0 SOSs, and 8 indicators.
+[2018-08-21T15:30:45Z, INFO] Presolve time = 0.00 sec. (0.16 ticks)
+[2018-08-21T15:30:45Z, INFO] Found incumbent of value 1328.690000 after 0.01 sec. (0.41 ticks)
+[2018-08-21T15:30:45Z, INFO] Probing fixed 1 vars, tightened 28 bounds.
+[2018-08-21T15:30:45Z, INFO] Probing time = 0.00 sec. (0.03 ticks)
+[2018-08-21T15:30:45Z, INFO] Tried aggregator 1 time.
+[2018-08-21T15:30:45Z, INFO] MIP Presolve eliminated 0 rows and 2 columns.
+[2018-08-21T15:30:45Z, INFO] Reduced MIP has 36 rows, 43 columns, and 128 nonzeros.
+[2018-08-21T15:30:45Z, INFO] Reduced MIP has 3 binaries, 0 generals, 0 SOSs, and 6 indicators.
+[2018-08-21T15:30:45Z, INFO] Presolve time = 0.00 sec. (0.07 ticks)
+[2018-08-21T15:30:45Z, INFO] Probing time = 0.00 sec. (0.01 ticks)
+[2018-08-21T15:30:45Z, INFO] MIP emphasis: balance optimality and feasibility.
+[2018-08-21T15:30:45Z, INFO] MIP search method: dynamic search.
+[2018-08-21T15:30:45Z, INFO] Parallel mode: none, using 1 thread.
+[2018-08-21T15:30:45Z, INFO] Root relaxation solution time = 0.00 sec. (0.07 ticks)
+[2018-08-21T15:30:45Z, INFO] 
+[2018-08-21T15:30:45Z, INFO]         Nodes                                         Cuts/
+[2018-08-21T15:30:45Z, INFO]    Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+[2018-08-21T15:30:45Z, INFO] *     0+    0                         1328.6900      457.6800            65.55%
+[2018-08-21T15:30:45Z, INFO]       0     0      457.6800     2     1328.6900      457.6800       14   65.55%
+[2018-08-21T15:30:45Z, INFO]       0     0      569.0694     2     1328.6900  Impl Bds: 13       19   57.17%
+[2018-08-21T15:30:45Z, INFO] *     0     0      integral     0      778.4900   Impl Bds: 2       23    0.00%
+[2018-08-21T15:30:45Z, INFO]       0     0        cutoff            778.4900      778.4900       23    0.00%
+[2018-08-21T15:30:45Z, INFO] Elapsed time = 0.03 sec. (1.13 ticks, tree = 0.01 MB
+[2018-08-21T15:30:45Z, INFO] , solutions = 2
+[2018-08-21T15:30:45Z, INFO] )
+[2018-08-21T15:30:45Z, INFO] Implied bound cuts applied:  4
+[2018-08-21T15:30:45Z, INFO] 
+[2018-08-21T15:30:45Z, INFO] Root node processing (before b&c):
+[2018-08-21T15:30:45Z, INFO]   Real time             =    0.03 sec. (1.13 ticks)
+[2018-08-21T15:30:45Z, INFO] Sequential b&c:
+[2018-08-21T15:30:45Z, INFO]   Real time             =    0.00 sec. (0.00 ticks)
+[2018-08-21T15:30:45Z, INFO]                           ------------
+[2018-08-21T15:30:45Z, INFO] Total (root+branch&cut) =    0.03 sec. (1.13 ticks)
+[2018-08-21T15:30:45Z, INFO] Solving done after 0.03 seconds.
